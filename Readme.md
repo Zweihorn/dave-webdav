@@ -6,7 +6,7 @@
 ## Sorry, this project is unmaintained 😢 - that's why it was forked here
 
 Thanks to all contributors for your incredible work! 
-Futrue will tell ...
+Future will tell ...
 
 ## Introduction
 
